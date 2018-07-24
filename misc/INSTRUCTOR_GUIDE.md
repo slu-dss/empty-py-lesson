@@ -1,1 +1,1 @@
-# empty-lesson Instructor Guide
+# empty-py-lesson Instructor Guide

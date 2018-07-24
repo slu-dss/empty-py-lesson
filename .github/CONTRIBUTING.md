@@ -84,5 +84,5 @@ Please note that this project is released with a [Contributor Code of
 Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to
 abide by its terms.
 
-[repoLink]: https://github.com/slu-dss/empty-lesson
-[issuesLink]: https://github.com/slu-dss/empty-lesson/issues
+[repoLink]: https://github.com/slu-dss/empty-py-lesson
+[issuesLink]: https://github.com/slu-dss/empty-py-lesson/issues

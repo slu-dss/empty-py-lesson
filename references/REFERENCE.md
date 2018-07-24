@@ -1,3 +1,3 @@
-# empty-lesson Reference
+# empty-py-lesson Reference
 
 *

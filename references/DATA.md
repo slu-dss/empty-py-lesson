@@ -1,3 +1,3 @@
-# empty-lesson Data Sources
+# empty-py-lesson Data Sources
 
 *

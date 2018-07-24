@@ -1,4 +1,4 @@
-# empty-lesson Index
+# empty-py-lesson Index
 
 ## Key Topics
 
@@ -13,5 +13,4 @@
 ### Tools
 
 * GitHub
-* `R`
-* RStudio
+* Python
