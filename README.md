@@ -1,25 +1,23 @@
-# empty-lesson <img src="/img/logo.png" align="right" />
-[![](https://img.shields.io/badge/seminar-seminar%20name-brightgreen.svg)](https://github.com/slu-dss/empty-lesson/)
-[![](https://img.shields.io/badge/lesson%20status-under%20development-red.svg)](https://github.com/slu-dss/empty-lesson/)
-[![](https://img.shields.io/github/release/slu-dss/empty-lesson.svg?label=version)](https://github.com/slu-dss/empty-lesson/releases)
-[![](https://img.shields.io/github/last-commit/slu-dss/empty-lesson.svg)](https://github.com/slu-dss/empty-lesson/commits/master)
-[![Travis-CI Build Status](https://travis-ci.org/slu-dss/empty-lesson.svg?branch=master)](https://travis-ci.org/slu-dss/empty-lesson)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/slu-dss/empty-lesson?branch=master&svg=true)](https://ci.appveyor.com/project/slu-dss/empty-lesson)
+# empty-py-lesson <img src="/img/logo.png" align="right" />
+[![](https://img.shields.io/badge/seminar-seminar%20name-brightgreen.svg)](https://github.com/slu-dss/empty-py-lesson/)
+[![](https://img.shields.io/badge/lesson%20status-under%20development-red.svg)](https://github.com/slu-dss/empty-py-lesson/)
+[![](https://img.shields.io/github/release/slu-dss/empty-py-lesson.svg?label=version)](https://github.com/slu-dss/empty-py-lesson/releases)
+[![](https://img.shields.io/github/last-commit/slu-dss/empty-py-lesson.svg)](https://github.com/slu-dss/empty-py-lesson/commits/master)
 
 ## Lesson Overview
-**THIS IS AN EMPTY VERSION OF THE LESSON TEMPLATE DESGINED TO GET INSTRUCTORS AND MAINTAINERS STARTED ON NEW LESSONS.**
+**THIS IS AN EMPTY VERSION OF THE LESSON TEMPLATE DESGINED TO GET INSTRUCTORS AND MAINTAINERS STARTED ON NEW PYTHON LESSONS.**
 
 To apply this template to a new repo named `new-lesson` via the terminal:
 
 ```bash
 # Create a bare clone of the repository.
-git clone --bare https://github.com/slu-dss/empty-lesson.git
+git clone --bare https://github.com/slu-dss/empty-py-lesson.git
 
 # Mirror-push to the new repository.
 cd empty-lesson.git
 git push --mirror https://github.com/slu-dss/new-lesson.git
 
-# Remove the temporary local repository you created in step 1.
+# Remove the temporary local repository you created above.
 cd ..
 rm -rf empty-lesson.git
 ```
@@ -43,19 +41,14 @@ At the end of this lesson, participants should be able to:
 
 
 ## Access Lesson
-You can download this lesson to your Desktop easily using `usethis`:
-
-```r
-usethis::use_course("https://github.com/slu-dss/empty-lesson/archive/master.zip")
-```
-
-By using `usethis::use_course`, all of the lesson materials will be downloaded to your computer, automatically extracted, and saved to your desktop. You can then open the `.Rproj` file to get started.
+You can download this lesson to your Desktop by...
 
 ## Contributor Code of Conduct
 Please note that this project is released with a [Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## About the SLU DSS
-### Reproducible Research in R
+### < DSS Seminar >
+< seminar description >
 
 ### About the SLU Data Science Seminar
 The [SLU Data Science Seminar](https://slu-dss.githb.io) (DSS) is a collaborative, interdisciplinary group at Saint Louis University focused on building researchers’ data science skills using open source software. We currently host seminars focused on the programming language R. The SLU DSS is co-organized by [Christina Gacia, Ph.D.](mailto:christina.garcia@slu.edu), [Kelly Lovejoy, Ph.D.](mailto:kelly.lovejoy@slu.edu), and [Christopher Prener, Ph.D.](mailto:chris.prener@slu.edu}). You can keep up with us here on GitHub, on our [website](https://slu-dss.githb.io), and on [Twitter](https://twitter.com/SLUDSS).
